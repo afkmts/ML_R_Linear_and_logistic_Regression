@@ -1,6 +1,6 @@
-# ML_R_Linear-Logistic_Regression
+# Linear and Logistic Regression, PCA and SVD
 As we know there are a lot of integrated data sets in R. 
-This module contains the explainiation and code of 
+This module contains the explainiation and code of:- 
 
 1. Linear Regression on SEATBELTS dataset
 2. Logistic Regression on STORMS dataset
