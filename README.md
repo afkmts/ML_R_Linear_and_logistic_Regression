@@ -1,4 +1,4 @@
-#R 
+# Machine Learning with R 
 # Linear and Logistic Regression, PCA and SVD 
 As we know there are a lot of integrated data sets in R. 
 This module contains the explainiation and code of:- 
